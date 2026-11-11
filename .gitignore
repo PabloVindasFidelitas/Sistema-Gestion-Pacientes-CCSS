@@ -1,0 +1,34 @@
+# Archivos ignorados por Git
+# Sistema de Gestión de Pacientes CCSS
+
+# Entorno virtual de Python
+venv/
+env/
+.venv/
+.env/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de configuración del IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de log
+*.log
+
+# Archivos de variables de entorno sensibles
+.env
+*.env
+
+# Archivos temporales
+*.tmp
+*.bak

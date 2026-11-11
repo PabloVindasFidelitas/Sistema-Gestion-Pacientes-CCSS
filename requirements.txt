@@ -1,0 +1,5 @@
+# Dependencias del Sistema de Gestión de Pacientes CCSS
+# Instalar con: pip install -r requirements.txt
+
+# Controlador oficial de Apache Cassandra para Python
+cassandra-driver==3.29.2
